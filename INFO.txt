@@ -1,0 +1,16 @@
+3 таблицы вопрос/ответ
+1 таблица на user: username/password/score
+
+
+Главная страница с формой регистрации
+Повторный логин невозможен (?? прикрутить сессию)
+
+С localhost redirect на /registration
+/registration -> /themes
+/themes -> /theme-name
+Играет
+В конце /theme-name -> /result
+C /result -> /themes
+
+/public/js/application.js - клиентская логика
+/routes - серверная логика
